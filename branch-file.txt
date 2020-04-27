@@ -1,0 +1,1 @@
+I am actually pretty interested in getting good at using VIM, but I saw in the installation that they reccomend adding a 3rd party text editor for whatever reason
